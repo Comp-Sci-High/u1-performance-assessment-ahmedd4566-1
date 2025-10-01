@@ -1,6 +1,8 @@
 // 1st Floor
 let gymatoriumLock = true;
 
+gymatoriumLock = false; 
+console.log(myVariable);
 // Commit and show us to unlock the next floor's instructions
 // ----------------------------
 // 2nd Floor
