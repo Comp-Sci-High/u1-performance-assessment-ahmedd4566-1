@@ -12,7 +12,7 @@ let computerLabItems = ["desktop computers", "monitors", "broken laptop", "mice"
 let mprItems = ["mirrors", "speakers", "chairs", "portable stereo", "projector", "chairs", "posters"];
 
 weworkItems.shift()
-console.log(weworkItems)
+computerLabItems[2] = 'fixed laptop'
 // Commit and show us to unlock the next floor's instructions
 // ----------------------------
 // 3rd Floor
