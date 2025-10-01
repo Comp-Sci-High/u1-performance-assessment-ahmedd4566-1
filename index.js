@@ -24,6 +24,10 @@ let scoreValues = {
     "R": "Resilience"
 }
 
+scoreValues.C = "Consistency"
+scoreValues.O = "Ownership"
+scoreValues.
+
 let afterSchoolClubs = {
     athletic: [
         {
