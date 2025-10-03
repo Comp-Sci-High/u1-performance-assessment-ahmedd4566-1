@@ -26,7 +26,9 @@ let scoreValues = {
 
 scoreValues.C = "Consistency"
 scoreValues.O = "Ownership"
-scoreValues.
+scoreValues.E = "Excellence"
+
+console.log(scoreValues)
 
 let afterSchoolClubs = {
     athletic: [
@@ -58,6 +60,9 @@ let afterSchoolClubs = {
         }     
     ]
 }
+
+afterSchoolClubs.athletic[0].club = "British Football Club"
+console.log(afterSchoolClubs.athletic.club)
 
 
 // Commit and show us to unlock the next floor's instructions
